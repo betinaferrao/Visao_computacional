@@ -46,10 +46,10 @@ Durante o desenvolvimento deste projeto foi utilizada Inteligência Artificial G
 
 **Principais utilizações:**
 
-* auxílio na implementação e organização de trechos do código;
-* esclarecimento de dúvidas sobre TensorFlow, Keras, Scikit-learn e OpenCV;
-* apoio na documentação e comentários do código;
-* auxílio na identificação e correção de erros durante o desenvolvimento.
+* Auxílio na implementação e organização de trechos do código;
+* Esclarecimento de dúvidas sobre TensorFlow, Keras, Scikit-learn e OpenCV;
+* Apoio na documentação e comentários do código;
+* Auxílio na identificação e correção de erros durante o desenvolvimento.
 
 Todo o código foi revisado, adaptado e testado pelos integrantes do grupo.
 
@@ -59,5 +59,3 @@ Todo o código foi revisado, adaptado e testado pelos integrantes do grupo.
 * Betina Corazza Ferrão
 * Jenifer Sofia Ovejero
 * Ricardo Bertotto Ribeiro
-* Nome do integrante 3
-* Nome do integrante 4
