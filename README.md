@@ -35,17 +35,6 @@ Os checkpoints (modelos treinados) utilizados neste projeto são:
 Os arquivos podem ser acessados no seguinte link:
 
 **Link:**
-**(cole aqui o link da pasta ou dos arquivos no Google Drive)**
-
-## Estrutura do Projeto
-
-Projeto/
-│
-├── main.py
-├── README.md
-├── modelo_mobilenetv2.keras
-├── modelo_resnet50.keras
-
 
 ## Utilização de Inteligência Artificial Generativa
 
