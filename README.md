@@ -40,17 +40,18 @@ Os arquivos podem ser acessados no seguinte link:
 
 ## Utilização de Inteligência Artificial Generativa
 
-Durante o desenvolvimento deste projeto foi utilizada Inteligência Artificial Generativa como ferramenta de apoio.
+Durante o desenvolvimento deste projeto foi utilizada Inteligência Artificial como ferramenta de apoio.
 
 **Ferramenta utilizada:**
 
-* ChatGPT (OpenAI)
+* ChatGPT
+* Claude
 
 **Principais utilizações:**
 
 * Auxílio na implementação e organização de trechos do código;
 * Esclarecimento de dúvidas sobre TensorFlow, Keras, Scikit-learn e OpenCV;
-* Apoio na documentação e comentários do código;
+* Apoio na documentação do código;
 * Auxílio na identificação e correção de erros durante o desenvolvimento.
 
 Todo o código foi revisado, adaptado e testado pelos integrantes do grupo.
