@@ -13,7 +13,9 @@ Os modelos implementados foram:
 * MobileNetV2 (Transfer Learning)
 * ResNet50 (Transfer Learning)
 
-Além da classificação das doenças, o projeto realiza a segmentação das lesões foliares para estimar a severidade da doença.
+Além da classificação das doenças, o projeto realiza a segmentação das lesões foliares para estimar a severidade da doença. Tal como apresentado na imagem.
+
+<img width="873" height="295" alt="image" src="https://github.com/user-attachments/assets/30b8a894-b6cf-400c-b5d6-95f7441aaec8" />
 
 ## Dataset
 
