@@ -36,9 +36,9 @@ Os checkpoints (modelos treinados) utilizados neste projeto são:
 
 Os arquivos podem ser acessados no seguinte link:
 
-**Link:**
+**Link:** https://drive.google.com/drive/folders/19P3zl8YGvyjEchRtrZwBHgVgsO7rD3JP?usp=sharing
 
-## Utilização de Inteligência Artificial Generativa
+## Utilização de Inteligência Artificial
 
 Durante o desenvolvimento deste projeto foi utilizada Inteligência Artificial como ferramenta de apoio.
 
