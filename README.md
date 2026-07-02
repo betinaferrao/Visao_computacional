@@ -1,5 +1,11 @@
 # Classificação de Doenças Foliares com Aprendizagem de Máquina e Aprendizagem Profunda
 
+## Membros
+
+* Betina Corazza Ferrão
+* Jenifer Sofia Ovejero
+* Ricardo Bertotto Ribeiro
+
 ## Descrição
 
 Este projeto implementa e compara técnicas de Aprendizagem de Máquina Clássica e Aprendizagem Profunda para a classificação de doenças foliares utilizando imagens do conjunto de dados PlantVillage.
@@ -55,8 +61,3 @@ Durante o desenvolvimento deste projeto foi utilizada Inteligência Artificial c
 Todo o código foi revisado, adaptado e testado pelos integrantes do grupo.
 
 
-## Autores
-
-* Betina Corazza Ferrão
-* Jenifer Sofia Ovejero
-* Ricardo Bertotto Ribeiro
