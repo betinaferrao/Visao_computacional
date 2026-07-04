@@ -1,4 +1,4 @@
-# Classificação de Doenças Foliares com Aprendizagem de Máquina e Aprendizagem Profunda
+# Classificação de Doenças Foliares com Aprendizagem de Máquina
 
 ## Membros
 
